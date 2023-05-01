@@ -1,0 +1,53 @@
+[
+  {
+    "chainId": 42161,
+    "id": "jones-dao",
+    "name": "Jones DAO",
+    "logo": "https://www.jonesdao.io/logo/jones-hat-gradient.svg",
+    "description": "One-click vaults that enable groundbreaking DeFi strategies. Unlock liquidity and capital efficiency for DeFi with vault-backed jAssets",
+    "tokens": ["0x10393c20975cF177a3513071bC110f7962CD67da", "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0", "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6"],
+    "coingecko": "jones-dao",
+    "twitter": "https://twitter.com/JonesDAO_io",
+    "discord": "https://discord.com/invite/jonesdao",
+    "docs": "https://docs.jonesdao.io/jones-dao/",
+    "medium": "",
+    "github": "https://github.com/Jones-DAO",
+    "telegram": "https://docs.jonesdao.io/jones-dao/",
+    "defillama": "https://defillama.com/protocol/jones-dao",
+    "website": "https://www.jonesdao.io/"
+  },
+  {
+    "chainId": 42161,
+    "id": "vela",
+    "name": "VELA Exchange",
+    "logo": "https://www.vela.exchange/assets/logo-vela.svg",
+    "description": "Vela Exchange is a decentralized exchange with advanced perpetuals trading capabilities, community focused incentives, and scalable infrastructure.",
+    "tokens": ["0x088cd8f5ef3652623c22d48b1605dcfe860cd704"],
+    "coingecko": "vela-token",
+    "twitter": "https://twitter.com/vela_exchange",
+    "discord": "https://discord.com/invite/velaexchange",
+    "docs": "https://vela-exchange.gitbook.io/vela-knowledge-base/",
+    "medium": "https://medium.com/@vela_exchange",
+    "github": "",
+    "telegram": "https://t.me/vela_exchange",
+    "defillama": "https://defillama.com/protocol/vela-exchange",
+    "website": "https://www.vela.exchange/"
+  },
+  {
+    "chainId": 42161,
+    "id": "gmx",
+    "name": "GMX",
+    "logo": "https://raw.githubusercontent.com/gmx-io/gmx-assets/main/GMX-Assets/SVG/GMX.svg",
+    "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+    "tokens": ["0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"],
+    "coingecko": "gmx",
+    "twitter": "https://twitter.com/GMX_IO",
+    "discord": "https://discord.gg/cxjZYR4gQK",
+    "docs": "https://gmxio.gitbook.io/gmx/",
+    "medium": "https://medium.com/@gmx.io",
+    "github": "https://github.com/xvi10",
+    "telegram": "https://t.me/GMX_IO",
+    "defillama": "https://defillama.com/protocol/gmx",
+    "website": "https://gmx.io"
+  }
+]
