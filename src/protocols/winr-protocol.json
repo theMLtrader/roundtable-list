@@ -1,0 +1,22 @@
+{
+  "chainId": 42161,
+  "id": "winr",
+  "name": "WINR Protocol",
+  "logo": "https://winr.games/winr-logo.svg",
+  "logo-sm": "https://winr.games/winr-symbol.png",
+  "tagline": "Decentralized On-Chain iGaming Infrastructure",
+  "tags": ["e-gaming", "infrastructure", "defi"],
+  "description": "The WINR Protocol pioneers the transition of iGaming to web3\n by providing smart contract tools, a liquidity engine,\n and an incentive framework to builders.",
+  "tokens": [
+    "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+    "0x63097E97BA51b64547Cf1F4Ba154495D7af74582"
+  ],
+  "twitter": "https://twitter.com/WINRProtocol",
+  "discord": "https://discord.com/invite/VCEZmDmGBm",
+  "docs": "https://docs.winr.games/",
+  "blog": "https://mirror.xyz/0x7aad0EDbD7E74D3A4BE0533A5D3303f5E23544b4",
+  "github": "https://github.com/winrprotocol/WINR_Protocol",
+  "telegram": "",
+  "defillama": "",
+  "website": "https://winr.games"
+}
