@@ -13,7 +13,7 @@ To add your protocol to the Round Table list, you should create your entry and s
 **3. Provide the following required information for your protocol.**
 
 - chainId (number)
-- id (string): must be unique, will be used as a slug on https://app.camelot.exchange/protocols/<id>
+- id (string): must be unique, will be used as a slug on https://app.camelot.exchange/protocols/id
 - logo (string): url, large format, will be used on the main protocol page
 - logo-sm (string): url, small format, square, will be used in the project list
 - tagline (string): one short sentence
