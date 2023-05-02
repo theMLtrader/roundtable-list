@@ -14,8 +14,8 @@ To add your protocol to the Round Table list, you should create your entry and s
 
 - chainId (number)
 - id (string): must be unique, will be used as a slug on https://app.camelot.exchange/protocols/id
-- logo (string): url, large format, will be used on the main protocol page
-- logo-sm (string): url, small format, square, will be used in the project list
+- logo (string): url, small format square img, will be used in the project list, svg preferred
+- cover (string): url, large format img, will be used on the main protocol page as a cover image, svg preferred
 - tagline (string): one short sentence
 - tags (array): up to 3
 - description (string): up to 600 characters
