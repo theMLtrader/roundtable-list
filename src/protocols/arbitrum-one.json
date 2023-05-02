@@ -17,5 +17,23 @@
     "github": "https://github.com/Jones-DAO",
     "telegram": "https://docs.jonesdao.io/jones-dao/",
     "defillama": "https://defillama.com/protocol/jones-dao"
+  },
+  {
+    "chainId": 42161,
+    "id": "liquity",
+    "name": "Liquity Protocol",
+    "logo": "https://uploads-ssl.webflow.com/5fd883457ba5da4c3822b02c/606a462c6889a25d00ccd9c6_logo-text.svg",
+    "logo-sm": "https://pbs.twimg.com/profile_images/1247198364707545089/zEgsUkSu_400x400.jpg",
+    "tagline": "Interest-free borrowing",
+    "tags": ["borrowing", "stablecoin"],
+    "description": "Interest-free LUSD borrowing on Ethereum, 100% ETH-backed, powered by immutable contracts and maximizing for resilience.",
+    "tokens": ["0x93b346b6BC2548dA6A1E7d98E9a421B42541425b", "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449"],
+    "website": "https://www.liquity.org/",
+    "twitter": "https://twitter.com/liquityProtocol",
+    "discord": "https://discord.gg/9yMGKrDfHK",
+    "docs": "https://docs.liquity.org/",
+    "blog": "https://www.liquity.org/blog",
+    "github": "https://github.com/liquity/",
+    "defillama": "https://defillama.com/protocol/liquity"
   }
 ]
