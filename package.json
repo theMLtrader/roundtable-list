@@ -1,14 +1,13 @@
 {
   "name": "camelot-roundtable-list",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "0xmyrddin",
-  "license": "MIT",
+  "license": "GPLV3",
   "scripts": {
     "build": "mkdir -p build && node src/write.js > build/roundtable.json && cp _redirects build/"
   },
   "files": [
-    "build/camelot-roundtable-list.json"
+    "build/roundtable.json"
   ],
   "devDependencies": {}
 }
