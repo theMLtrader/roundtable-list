@@ -8,7 +8,7 @@ To add your protocol to the Round Table list, you should create your entry and s
 
 **1. Fork this repo**
 
-**2. Add your protocol in the relevant .json file in src/protocols/.**
+**2. Add your protocol in the relevant "blockchain".json file in src/protocols/.**
 
 **3. Provide the following required information for your protocol.**
 
