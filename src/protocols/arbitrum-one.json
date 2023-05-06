@@ -4,7 +4,7 @@
     "id": "gmx",
     "name": "GMX",
     "logo": "https://raw.githubusercontent.com/gmx-io/gmx-assets/main/GMX-Assets/SVG/GMX_LOGO%20ONLY.svg",
-    "cover": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/SVG/GMX.svg",
+    "cover": "https://raw.githubusercontent.com/gmx-io/gmx-assets/main/GMX-Assets/SVG/GMX.svg",
     "tagline": "Decentralized Perpetual Exchange",
     "tags": ["dex", "leverage", "perpetual"],
     "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading. Dynamic pricing is supported by Chainlink Oracles and an aggregate of prices from leading volume exchanges.",
