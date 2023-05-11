@@ -27,7 +27,7 @@
     "tags": ["dex", "leverage", "perpetual"],
     "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading. Dynamic pricing is supported by Chainlink Oracles and an aggregate of prices from leading volume exchanges.",
     "tokens": ["0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"],
-    "website": "https://gmx.io/",
+    "website": "https://app.gmx.io/#/trade/?ref=camelotdex",
     "twitter": "https://twitter.com/GMX_IO",
     "discord": "https://discord.com/invite/ymN38YefH9",
     "docs": "https://gmxio.gitbook.io/gmx/",
