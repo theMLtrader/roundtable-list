@@ -1,13 +1,23 @@
 {
   "name": "camelot-roundtable-list",
   "version": "1.0.0",
-  "author": "0xmyrddin",
+  "author": "Camelot Labs",
   "license": "GPLV3",
   "scripts": {
+    "test": "mocha",
     "build": "mkdir -p build && node src/write.js > build/roundtable.json && cp _redirects build/"
   },
   "files": [
     "build/roundtable.json"
   ],
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamelotLabs/roundtable-list.git"
+  },
+  "devDependencies": {
+    "@ethersproject/address": "^5.7.0",
+    "ajv": "6.12.3",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
 }
