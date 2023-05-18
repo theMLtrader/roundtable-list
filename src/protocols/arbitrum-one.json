@@ -232,5 +232,21 @@
     "blog": "https://medium.com/spoolfi",
     "github": "https://github.com/SpoolFi",
     "defillama": "https://defillama.com/protocol/spool-protocol"
-  }
+  },
+  {
+      "chainId": 42161,
+      "id": "thales",
+      "name": "Thales",
+      "logo": "https://svgshare.com/i/tGn.svg",
+      "cover": "https://4774881-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKSZyDhrhMxBqaXew1MHD%2Fuploads%2FODjwDo1ByuCBWD7clmcE%2F02_ThalesLogoWordmark_NavyTransparent.svg?alt=media&token=7bccc253-7f73-40e4-8710-d6856d603784",
+      "tagline": "Liquidity and AMM solution for Exclusive Outcome markets.",
+      "tags": ["Options AMM", "Sports AMM"],
+      "description": "Thales Protocol offers an on-chain liquidity and automated market making solution for mutually exclusive events that can have binary or ternary exclusive outcomes with unprecedented capital efficiency due to our risk-based AMM architecture and minimization of toxic flow risk. Key product market fit built on top of this architecture are on-chain Sports Markets and Digital Options derivatives.",
+      "tokens": ["0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30"],
+      "website": "https://thalesmarket.io/",
+      "twitter": "https://twitter.com/thalesmarket",
+      "discord": "https://discord.gg/Thales",
+      "docs": "https://docs.thalesmarket.io/",
+      "blog": "https://thalesmarket.medium.com/"
+    }
 ]
