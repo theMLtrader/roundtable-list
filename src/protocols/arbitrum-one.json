@@ -268,7 +268,7 @@
     "chainId": 42161,
     "id": "thales",
     "name": "Thales",
-    "logo": "https://svgshare.com/i/tGn.svg",
+    "logo": "https://raw.githubusercontent.com/thales-markets/thales-improvement-proposals/003a5d63bfb63fad13b2554c7001383829129d9a/TIPs/assets/Untitled%20(1).svg",
     "cover": "https://4774881-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKSZyDhrhMxBqaXew1MHD%2Fuploads%2FODjwDo1ByuCBWD7clmcE%2F02_ThalesLogoWordmark_NavyTransparent.svg?alt=media&token=7bccc253-7f73-40e4-8710-d6856d603784",
     "tagline": "Liquidity and AMM solution for Exclusive Outcome markets.",
     "tags": ["Options AMM", "Sports AMM"],
