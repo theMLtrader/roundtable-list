@@ -232,10 +232,10 @@
   },
   {
     "chainId": 42161,
-    "id": "DSquared",
-    "name": "Dsquared.finance",
+    "id": "d2",
+    "name": "D2.finance",
     "logo": "https://raw.githubusercontent.com/Bondi-Wealth-Security/dsqlogo/main/DSQlogo.png",
-    "cover": "https://raw.githubusercontent.com/Bondi-Wealth-Security/dsqlogo/bd62214b4f56aabbaaa1ac11c1c7562db81afb58/background.png",
+    "cover": "https://raw.githubusercontent.com/Bondi-Wealth-Security/dsqlogo/main/d2banner.png",
     "tagline": "Options-Based DeFi Vaults",
     "tags": ["options", "vaults", "strategy"],
     "description": "Delivering consistent, risk-adjusted returns across market cycles through highly-secure vaults",
